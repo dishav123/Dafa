@@ -5,12 +5,12 @@
 
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import Kanti2 from "../assets/Kanti2.png"; 
-import PanchaBuddha from "../assets/PanchaBuddhaT.png";
-import Sundari from "../assets/SundariT.png";
-import Ayala from "../assets/AyalaSundarT.png";
-import Ganga from "../assets/GangaMaiT.png";
-import Hari from "../assets/HariNamT.png";
+import Kanti2 from "../assets/Kanti2.PNG"; 
+import PanchaBuddha from "../assets/PanchaBuddhaT.PNG";
+import Sundari from "../assets/SundariT.PNG";
+import Ayala from "../assets/AyalaSundarT.PNG";
+import Ganga from "../assets/GangaMaiT.PNG";
+import Hari from "../assets/HariNamT.PNG";
 
 // ─── Data ────────────────────────────────────────────────────────────────────
 // thumbnail: import your image at the top and reference it here

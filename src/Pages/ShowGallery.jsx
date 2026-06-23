@@ -5,7 +5,7 @@ import MahalaxmiMB from "../assets/MahalaxmiMB.png";
 import Echoes from "../assets/Echoes.jpeg";
 import Echoes2 from "../assets/Echoes2.PNG";
 import Kanti from "../assets/Kanti.PNG";
-import Kanti2 from "../assets/kanti2.PNG";
+import Kanti2 from "../assets/Kanti2.PNG";
 import Echoes3 from "../assets/Echoes3.jpeg";
 import Echoes4 from "../assets/Echoes4.jpeg";
 import KGH1 from "../assets/KGH1.PNG";
